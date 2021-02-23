@@ -1,0 +1,1 @@
+{'This': 5, 'occurs': 6, 'three': 3, 'times': 3, 'at': 5, 'Schluz.': 2, 'this': 1, 'one': 1, 'time': 1, 'in': 1, 'Berdsk.': 1, 'twice,': 1, 'Verhnyaya': 2, 'Zone.': 2, 'twice': 1, 'schluz.': 1}

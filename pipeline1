@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+storage=/home/mosajd/Downloads/ds-nsu/d
+tsk_dir=/home/mosajd/Downloads/ds-nsu/src/1
+cat $storage/f1.tsv | python3 $tsk_dir/word_counter.py > $tsk_dir/output.txt
